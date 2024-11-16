@@ -25,9 +25,22 @@ h2 {
     border-radius: 0%;
 }
 
+#custom-button{
+    background-color: #184f63;
+    border-color: #184f63;
+    
+  }
+
+#custom-button:hover {
+    background-color: red;
+    border: #1d6d8a;
+
+    }
+
 
 #about {
     background-color: white;
+
 }
 
 #portfolio {

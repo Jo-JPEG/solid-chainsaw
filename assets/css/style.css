@@ -25,14 +25,14 @@ h2 {
     border-radius: 0%;
 }
 
-#custom-button{
+.custom-button{
     background-color: #184f63;
     border-color: #184f63;
     
   }
 
-#custom-button:hover {
-    background-color: red;
+.custom-button:hover {
+    background-color: #1d6d8a;
     border: #1d6d8a;
 
     }
